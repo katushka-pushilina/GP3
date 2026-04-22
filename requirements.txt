@@ -2,3 +2,4 @@
 uvicorn
 pandas
 typing
+python-multipart
